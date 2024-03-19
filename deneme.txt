@@ -3,3 +3,5 @@ Dosyaya güncelleme yapıyoruz.
 test
 çakışma olacak
 deneme remote
+ABBBBBBBBBBBB
+BBBBBBBBBBBBBBBB
