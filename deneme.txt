@@ -3,6 +3,10 @@ Dosyaya güncelleme yapıyoruz.
 test
 çakışma olacak
 deneme remote
+
 AAAAAAAAA
 AAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAA
+
+ABBBBBBBBBBBB
+BBBBBBBBBBBBBBBB
