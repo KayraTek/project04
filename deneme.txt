@@ -2,3 +2,4 @@ Merhaba
 Dosyaya güncelleme yapıyoruz.
 test
 çakışma olacak
+deneme remote
